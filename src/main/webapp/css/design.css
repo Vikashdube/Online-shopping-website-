@@ -1,0 +1,20 @@
+
+body{
+    background:powderblue;
+}
+
+.admin .card{
+    border: 1px buttonface;
+    
+}
+.admin .card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+}
+.navbar{
+    background-color: graytext;
+}
+.list-group-item.active{
+    border-color: grey;
+}
+

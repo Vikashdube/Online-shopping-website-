@@ -1,0 +1,15 @@
+
+body{
+    background:brown;
+}
+.custom-bg{
+  
+    background-color: red
+}
+.admin.card{
+    border: 1px solid red;
+    
+}
+.admin .card:hover{
+    background: #e2e2e2;
+}
